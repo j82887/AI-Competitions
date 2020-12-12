@@ -4,3 +4,5 @@
 https://tbrain.trendmicro.com.tw/Competitions/Details/10
 
 # 2020 AI CUP Mango Image Recognition Challenge
+
+# 2020 Soybeans

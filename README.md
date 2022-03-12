@@ -4,5 +4,3 @@
 https://tbrain.trendmicro.com.tw/Competitions/Details/10
 
 ## AI CUP Mango Image Recognition Challenge
-
-## Soybeans
